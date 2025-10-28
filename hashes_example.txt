@@ -1,0 +1,19 @@
+#Replace it with your list of hashes you want to analyze.
+3b6229a0a6b1a41ebb58f4e0240ce264 C:\Users\john\Desktop\Microsoft\bin\agent-00000.exe
+89420836bff61e46fd83ab8f00dd9de1 C:\Users\john\Downloads\setup-00001.dll
+0d08a5b7d805068999ebf65c7308ab1f C:\Users\john\Documents\Google\update-00002.sys
+44f47cbf18ca835f2ea69852c17d031a C:\Users\john\Documents\Reports\build\launcher-00003.ps1
+d4b1ac585d6f91a4e7b6d0d094bc91e6 C:\Users\john\Documents\Tools\NVIDIA\service-00004.bat
+ccb83a7642e6423c68eeba2c101c55c3 C:\Users\john\Pictures\Wallpapers\helper-00005.vbs
+4e9673ec6fcda9254640b550556e924a C:\Users\john\Videos\Clips\Python\helpers\driver-00006.py
+a9882d76358b3a9602d7311bb4085b24 C:\Users\john\Projects\cleanup-00007.jar
+0f4f1e9891256930692b01421a6955e8 C:\Users\john\Projects\ir-tools\Git\scheduler-00008.cmd
+c4a0645f9baa7e3ba8385e9bb9a60a94
+88386f1def577c285bd40be8b1844fa7
+5b3ef8d2161c064b9f527c09056c19d6
+383ffe3c4c961e8b18a07d2e71090e50
+c8577a8d5f36983b262f38f875122e4b
+3c6dee7b2bb48fd6cbacbf325d794574
+c863f8eae89d6655b97bbad7aa990299
+79ccd8f7afed8c4445b67feabe1a44b8
+ef13c04376c7db6f6ba27ba08dae70a3
